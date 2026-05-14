@@ -1,4 +1,4 @@
-# Helical Bevel Gear — Complete Manufacturing & CAD Guide ⚙️
+# Helical Bevel Gear — Complete Manufacturing & CAD Guide 
 
 [![Live Guide](https://img.shields.io/badge/View_Live_Guide-HTML-blue?style=for-the-badge)](https://nirbhikviswas.github.io/Helical-Bevel-Gear-CAD-guide/)
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-Compatible-red?style=for-the-badge)](#)
@@ -37,7 +37,7 @@ The guide walks through a complete example with the following specifications:
 
 ## 🛠️ How to Use This Repo
 
-1. **Read the Guide:** Click the [Live Guide](#) link at the top of this README to open the interactive HTML page.
+1. **Read the Guide:** Click the VIEW LIVE GUIDE link at the top of this README to open the interactive HTML page.
 2. **Download the Data:** Use the export buttons within the HTML guide to download the pre-calculated `pinion_spiral.txt` and `gear_spiral.txt` XYZ coordinate files.
 3. **Follow the CAD Steps:** Open SolidWorks and follow **Part 4** of the guide to import the curves and generate the true gear geometry.
 
